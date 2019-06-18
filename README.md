@@ -1,6 +1,6 @@
 # mydemo
 
-> A Vue.js project
+> 只是测试Demo而已，哈哈哈
 
 ## Build Setup
 
